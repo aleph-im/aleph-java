@@ -1,4 +1,4 @@
-# New Document# Aleph JAVA API (Ethereum)
+# Aleph JAVA API (Ethereum)
 
 ## Introduction
 
